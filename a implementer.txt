@@ -1,0 +1,5 @@
+
+-voir en temps reel si le compte existe lors du choix d'un mot de passe quand on cree un nouveau compte
+-recherche d'utilisateurs en temps reel (voir auto completion)
+-utilisateur en train de taper un message
+-tri des utilisateurs connectes en haut
