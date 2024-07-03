@@ -1,5 +1,5 @@
 //Connexion a socket.io
-var socket = io.connect('http://localhost:3000');     //Si on bosse en local
+var socket = io.connect('https://owntelemaque-chat.koyeb.app:3000');     //Si on bosse en local
 
 //Liste des amis de l'utilisateur
 var liste_amis = [];
